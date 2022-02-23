@@ -1,7 +1,4 @@
 helo
 h
-where are you
-hiiiiii
-ssa
-hell
+where are yo
 how are yo
